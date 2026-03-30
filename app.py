@@ -39,13 +39,11 @@ except Exception:
 # PAGE CONFIG
 # =========================================================
 st.set_page_config(
-    page_title="Factor-Augmented Inflation Framework",
-    page_icon="🏦",
+    page_title="Inflation Forecasting Framework | Chirume Admire Tarisirayi",
+    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
-
 # =========================================================
 # THEME
 # =========================================================
