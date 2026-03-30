@@ -1471,18 +1471,27 @@ st.markdown(
     """
     <div class="rbz-hero">
         <h1>Factor-Augmented Inflation Forecasting Framework</h1>
-            <div class="hero-subtitle">
-            Developed by Admire Tarisirayi Chirume
+        
+        <div class="hero-subtitle">
+            Developed by <b> Chirume Admire Tarisirayi</b> | Economist • Data Scientist 
         </div>
-        <p>Central bank-grade inflation nowcasting, multi-model forecasting, regime classification, and scenario analysis.</p>
+
+        <p>
+            A central bank–grade system for inflation nowcasting, multi-model forecasting, regime classification,
+            and forward-looking scenario analysis.
+        </p>
+
         <div class="rbz-subline">
-            Factor blocks: Domestic Liquidity • External Cost • Inflation Momentum • Demand/Fiscal Conditions
+            Factor Architecture: Domestic Liquidity • External Cost Pressures • Inflation Momentum • Demand & Fiscal Conditions
+        </div>
+
+        <div style="margin-top: 0.6rem; font-size: 0.9rem; opacity: 0.9;">
+            Advanced Econometric Modelling • Machine Learning Integration • Policy-Ready Analytics
         </div>
     </div>
     """,
     unsafe_allow_html=True,
 )
-
 
 # =========================================================
 # SIDEBAR
