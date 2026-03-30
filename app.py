@@ -1475,6 +1475,9 @@ st.markdown(
         <div class="rbz-subline">
             Factor blocks: Domestic Liquidity • External Cost • Inflation Momentum • Demand/Fiscal Conditions
         </div>
+        <div class="hero-subtitle">
+Developed by Admire Tarisirayi Chirume
+</div>
     </div>
     """,
     unsafe_allow_html=True,
