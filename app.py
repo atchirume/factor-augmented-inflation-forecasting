@@ -1471,13 +1471,13 @@ st.markdown(
     """
     <div class="rbz-hero">
         <h1>Factor-Augmented Inflation Forecasting Framework</h1>
+            <div class="hero-subtitle">
+Developed by Admire Tarisirayi Chirume
+</div>
         <p>Central bank-grade inflation nowcasting, multi-model forecasting, regime classification, and scenario analysis.</p>
         <div class="rbz-subline">
             Factor blocks: Domestic Liquidity • External Cost • Inflation Momentum • Demand/Fiscal Conditions
         </div>
-        <div class="hero-subtitle">
-Developed by Admire Tarisirayi Chirume
-</div>
     </div>
     """,
     unsafe_allow_html=True,
