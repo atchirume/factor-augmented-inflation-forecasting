@@ -3470,14 +3470,14 @@ Users are therefore advised to apply professional judgment when interpreting out
 
 This application, including its analytical architecture, factor-engine design, forecasting system, scenario engine, regime-classification structure, and methodological documentation, is the intellectual work of:
 
-**Chirume A.T.**  
+**Chirume Admire Tarisirayi**  
 **Ph.D\*, MA, MSc, BSc (Hons) Econ (UZ)**
 
 ### Further Enquiries
 
 For further enquiries, clarification, or technical correspondence, refer to the author:
 
-**Chirume A.T.**  
+**Chirume Admire Tarisirayi**  
 **Mobile:** +263 773 369 884
 """)
 st.caption("Run this app with: streamlit run 4.py")
